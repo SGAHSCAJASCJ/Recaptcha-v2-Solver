@@ -38,7 +38,7 @@ python test.py
 
 ### How to Receive Files
 After donating 10 USDT on BNB Chain:
-- Send the email to admin@dongxin.site and include the transaction hash.
+- Send the email to admin@easamail.com and include the transaction hash.
 - You will receive access to the model files (`models/`) and labeled data.
 
 ## Notes
