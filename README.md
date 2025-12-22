@@ -43,6 +43,7 @@ After donating 10 USDT on BNB Chain:
 
 ## Notes
 - Ensure you are sending USDT on BNB Chain (BEP-20) to the wallet address above.
+- Thank you all. The dataset and model will be made public when we reach 10 donations or 50 likes.
 
 ## Disclaimer
 - This project is provided for research and educational purposes.
